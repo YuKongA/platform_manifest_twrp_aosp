@@ -162,7 +162,6 @@
     <remove-project name="platform/external/gemmlowp"/>
     <remove-project name="platform/external/geojson-jackson"  />
     <remove-project name="platform/external/geonames"  />
-    <remove-project name="platform/external/gflags"  />
     <remove-project name="platform/external/giflib"/>
     <remove-project name="platform/external/glide"/>
     <remove-project name="platform/external/google-benchmark"  />
